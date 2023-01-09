@@ -7,3 +7,4 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=reynaldiarya&repo=FOSSBilling&show_owner=true)](https://github.com/reynaldiarya/FOSSBilling)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=reynaldiarya&repo=rapay-beipgw&show_owner=true)](https://github.com/reynaldiarya/rapay-beipgw)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=reynaldiarya&repo=rapay-beipgw&show_owner=true)](https://github.com/reynaldiarya/rapay-beipgw)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
