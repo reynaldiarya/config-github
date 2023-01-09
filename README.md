@@ -6,3 +6,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reynaldiarya&layout=compact&theme=midnight-purple)](https://github.com/reynaldiarya)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=reynaldiarya&repo=FOSSBilling&show_owner=true)](https://github.com/reynaldiarya/FOSSBilling)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=reynaldiarya&repo=rapay-beipgw&show_owner=true)](https://github.com/reynaldiarya/rapay-beipgw)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=reynaldiarya&repo=rapay-beipgw&show_owner=true)](https://github.com/reynaldiarya/rapay-beipgw)
